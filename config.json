@@ -3,12 +3,16 @@
   "username": "arindam-8",
   "name": null,
   "userimg": "https://avatars.githubusercontent.com/u/73947486?v=4",
-  "sort": "star",
+  "sort": "created",
   "order": "asc",
   "includeFork": false,
   "theme": "light.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
